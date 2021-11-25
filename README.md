@@ -1,1 +1,3 @@
 # KMeans-Masculinity
+
+For this project I analyzed from *FiveThirtyEight* about the way people think about masculinity. It was based on a survey ....
